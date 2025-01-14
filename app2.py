@@ -117,7 +117,7 @@ st.write("Explore the fraudulent job dataset using the sidebar!")
 #df= pd.read_csv('Fake Postings.csv')
 
 ## Create a siderbar for user inputs
-st.header('Make a prediction')
+st.header('The Reporting Dashboard')
 st.write('''To make an analysis of the fraudulent jobs in a list of jobs identified on the job site,
          proceed and upload the data file onto the model''')
 st.sidebar.subheader('Option 2: File Upload')
